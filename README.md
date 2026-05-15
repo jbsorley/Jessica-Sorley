@@ -7,7 +7,7 @@ Greater Chicago · [linkedin.com/in/jessica-sorley](https://linkedin.com/in/jess
 
 I've spent 18 years building systems — for brands, for teams, for how organizations make meaning at scale. The through line has always been the same: design the structure so the right thing can happen without you in the room.
 
-That instinct is what pulled me into AI. Not as a tool to go faster, but as a medium for building things that didn't exist before — platforms, agents, and experiences that extend human capacity rather than replace human judgment.
+That instinct is what pulled me into AI. Not as a tool to go faster, but as a medium for building things that didn't exist before — platforms, agents, and experiences that extend human comprehension rather than replace human judgment.
 
 I'm now building at the intersection of systems design, AI, and what I'd call advancement infrastructure: tools that help people think more clearly, act more intentionally, and navigate complexity with more of themselves intact.
 
@@ -41,11 +41,9 @@ I'm now building at the intersection of systems design, AI, and what I'd call ad
 
 ## 💡 How I Work
 
-I build systems before I build products. That means understanding the underlying logic — what a person actually needs, what gets in the way, what structure would let the right thing happen reliably — before writing a single line of prompt or code.
+I treat AI as a CEO treats senior reports: I keep judgment, voice, and sequencing in my seat, and I delegate translation-to-implementation. Building [Cosmic Current](https://cosmiccurrent.co) taught me that "looks done" is not done — every change ends in a grep check, and every feature starts with an audit. The discipline is what makes the leverage real.
 
-My background is in brand because brand is fundamentally a systems problem: how do you create coherent meaning across thousands of touchpoints, teams, and moments you can't control? The answer is always architecture. Principles that hold. Frameworks that scale. Language that travels.
-
-AI is the same problem with higher stakes and more leverage. The tools I build are designed to extend human capacity — not to automate humans out of the loop, but to give them better loops to be in.
+→ *[See the full build process case study](https://github.com/jbsorley/cosmic-current-build-process)*
 
 ---
 
