@@ -1,15 +1,15 @@
 # Jessica Sorley
 
-**Senior Brand Director · Narrative Systems · AI Builder · Cultural Platform Strategist**  
+**AI Founder · Systems Thinker · Brand Architect**  
 Greater Chicago · [linkedin.com/in/jessica-sorley](https://linkedin.com/in/jessica-sorley) · jess.sorley@gmail.com
 
 ---
 
-Brand and marketing director with 18 years building narrative systems, cultural platforms, and creative operating models for Fortune 100 organizations. I write the playbook, build it with the team, and ship the work that runs on it.
+I've spent 18 years building systems — for brands, for teams, for how organizations make meaning at scale. The through line has always been the same: design the structure so the right thing can happen without you in the room.
 
-AI builder as well as AI strategist. I build live tools to learn what brands should say about the technology — and to solve real problems while I'm at it.
+That instinct is what pulled me into AI. Not as a tool to go faster, but as a medium for building things that didn't exist before — platforms, agents, and experiences that extend human capacity rather than replace human judgment.
 
-Most impactful when a brand is at an inflection: scaling a challenger, modernizing a category leader, or translating a complex product story for audiences that haven't met it yet.
+I'm now building at the intersection of systems design, AI, and what I'd call advancement infrastructure: tools that help people think more clearly, act more intentionally, and navigate complexity with more of themselves intact.
 
 ---
 
@@ -29,30 +29,30 @@ Most impactful when a brand is at an inflection: scaling a challenger, modernizi
 ## ⚙️ Custom Operational Agents
 
 - **Inbox-to-Calendar Agent** — reads email for meeting intent (including commitments implied in conversational language, not just formal invites) and dispatches structured daily calendar updates
-- - **Signal-Filtering Agent** — scrapes structured sources daily, applies a custom ranking system to surface relevant content
- 
-  - ---
+- **Signal-Filtering Agent** — scrapes structured sources daily, applies a custom ranking system to surface relevance
 
-  ## 🧰 Tools & Platforms
+---
 
-  `Claude` `Claude Cowork` `ChatGPT` `Custom GPTs` `Google Gemini` `Lovable` `Opus Clip` `GitHub`
+## 🧰 Tools & Platforms
 
-  ---
+`Claude` `Claude Cowork` `ChatGPT` `Custom GPTs` `Google Gemini` `Lovable` `Opus Clip` `GitHub`
 
-  ## 💡 How I Work
+---
 
-  I don't treat AI as a productivity shortcut. I treat it as a thinking partner and a build environment. My workflow is: identify a real problem, pick up a tool, make something that runs, then figure out what it means for the brand or the person using it.
+## 💡 How I Work
 
-  I work across strategy and execution without handing off in between. That means I'm in Claude drafting the agent logic in the same week I'm presenting the platform narrative to a CMO. The gap between "what we should say" and "what we actually ship" is where I live.
+I build systems before I build products. That means understanding the underlying logic — what a person actually needs, what gets in the way, what structure would let the right thing happen reliably — before writing a single line of prompt or code.
 
-  I build to learn. Every tool I've made has taught me something a deck couldn't — about where AI breaks, where it surprises you, and where the human judgment still has to show up.
+My background is in brand because brand is fundamentally a systems problem: how do you create coherent meaning across thousands of touchpoints, teams, and moments you can't control? The answer is always architecture. Principles that hold. Frameworks that scale. Language that travels.
 
-  ---
+AI is the same problem with higher stakes and more leverage. The tools I build are designed to extend human capacity — not to automate humans out of the loop, but to give them better loops to be in.
 
-  ## 📣 Speaking
+---
 
-  **Latino AI Summit** — Invited speaker on discernment and human design in AI: the case for building AI that enhances humans rather than replacing them.
+## 📣 Speaking
 
-  ---
+**Latino AI Summit** — Invited speaker on discernment and human design in AI: the case for building AI that enhances humans rather than replacing them.
 
-  *M.S. Mass Communications, VCU Brandcenter · B.A. Journalism & Strategic Communications, University of Wisconsin–Madison*
+---
+
+*M.S. Mass Communications, VCU Brandcenter · B.A. Journalism & Strategic Communications, University of Wisconsin–Madison*
