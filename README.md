@@ -39,22 +39,19 @@ Most impactful when a brand is at an inflection: scaling a challenger, modernizi
 
   ---
 
-  ## 📣 Speaking
+  ## 💡 How I Work
 
-  **Latino AI Summit** — Invited speaker on discernment and human design in AI: the case for building AI that enhances humans rather than replacing them.
+  I don't treat AI as a productivity shortcut. I treat it as a thinking partner and a build environment. My workflow is: identify a real problem, pick up a tool, make something that runs, then figure out what it means for the brand or the person using it.
+
+  I work across strategy and execution without handing off in between. That means I'm in Claude drafting the agent logic in the same week I'm presenting the platform narrative to a CMO. The gap between "what we should say" and "what we actually ship" is where I live.
+
+  I build to learn. Every tool I've made has taught me something a deck couldn't — about where AI breaks, where it surprises you, and where the human judgment still has to show up.
 
   ---
 
-  ## 🏢 Experience Highlights
+  ## 📣 Speaking
 
-  **Walmart** (2024–2025) · Director, Brand Strategy & Marketing
-  Built The Nuevolution Project cultural platform from scratch — 150M+ impressions, 6.3% engagement.
-
-  **Allstate** (2019–2024) · Senior Manager, Creative & Brand Transformation Strategy
-  Wrote the customer value proposition presented to 500+ marketing leaders; repositioned Drivewise into the largest adopted telematics program in the country.
-
-  **Target** (2014–2019) · Lead, Creative & Brand Strategy
-  Built Target Finds into a $30M+ first-year revenue stream; developed Made to Matter, unifying a $200M wellness portfolio.
+  **Latino AI Summit** — Invited speaker on discernment and human design in AI: the case for building AI that enhances humans rather than replacing them.
 
   ---
 
